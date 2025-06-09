@@ -20,7 +20,7 @@ Tutor: Maximiliano Sar Fernández
 Fecha
 9 de junio de 2025
 
-link video youtobe: https://www.youtube.com/watch?v=Ktswmyp97Ys
+link video youtube: https://www.youtube.com/watch?v=Ktswmyp97Ys
 
 Objetivo
 Comprender e implementar los algoritmos de búsqueda y ordenamiento más utilizados en el lenguaje de programación Python, evaluar su rendimiento e identificar ventajas y desventajas de cada uno en el procesamiento de datos reales.
